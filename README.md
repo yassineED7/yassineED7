@@ -22,8 +22,8 @@
 ```javascript
 const yassine = {
     name: "Yassine ED-DAADOUA",
-    location: "Marrakech, Morocco 🇲🇦",
-    education: "Computer Engineering @ ESMA",
+    location: "Marrakech, Morocco",
+    education: "Computer Engineering ESMA",
     status: "Building the future, one line at a time",
     passion: ["Full Stack Development", "Problem Solving"],
     currentlyLearning: ["Advanced React Patterns", "DevOps"],
