@@ -1,70 +1,121 @@
-# Yassine ED-DAADOUA
+# Hi, I'm Yassine 👋
 
-**Full Stack Developer** | Marrakech, Morocco  
-Computer Engineering Student at ESMA
+```javascript
+const developer = {
+    name: "Yassine ED-DAADOUA",
+    location: "Marrakech 🇲🇦",
+    role: "Full Stack Developer",
+    education: "Computer Engineering @ ESMA",
+    mindset: "Building elegant solutions to complex problems",
+    currentFocus: ["Advanced React Patterns", "DevOps", "Clean Architecture"]
+};
+```
 
----
+## 🎯 What I Do
 
-## About Me
+I craft full stack applications that combine intuitive user experiences with robust backend systems. My approach balances technical excellence with practical problem-solving.
 
-I'm a passionate full stack developer with a focus on building efficient, scalable web applications. Currently expanding my expertise in advanced React patterns and DevOps practices.
-
-- 🔭 Working on various full stack projects using modern technologies
-- 🌱 Learning Advanced React Patterns and DevOps
-- 💼 Open to collaboration and interesting opportunities
-
----
-
-## Technical Skills
-
-**Languages:** PHP, JavaScript, Java, Python, C#, C++
-
-**Frontend:** React, HTML5, CSS3, WordPress
-
-**Backend:** Laravel, ASP.NET, .NET
-
-**Databases:** MySQL, Microsoft SQL Server
-
-**Tools:** Docker, Git, VS Code, Visual Studio
+**Current Mission:** Bridging the gap between beautiful interfaces and powerful server-side logic.
 
 ---
 
-## Featured Projects
+## 🛠️ Technology Stack
 
-### Student Group Management System
-Educational platform for managing student groups with admin panel and activity tracking.  
-**Tech Stack:** PHP, Laravel, MySQL
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Coworking Management System
-Complete solution for coworking spaces with booking and subscription management.  
-**Tech Stack:** C#, ASP.NET MVC, SQL Server
+### Frontend
+- ⚛️ React - Building interactive UIs
+- 🎨 HTML5/CSS3 - Crafting experiences
+- 📦 WordPress - Content management
 
-### Digital Library Platform
-Online book platform with reading services and delivery management.  
-**Tech Stack:** PHP, JavaScript, MySQL
+### Backend
+- 🐘 PHP & Laravel - API development
+- 🔷 C# & .NET - Enterprise solutions
+- ☕ Java - Object-oriented systems
 
-### Task Management Tool
-Simple yet powerful task tracking web application.  
-**Tech Stack:** HTML5, CSS3, JavaScript
+</td>
+<td valign="top" width="50%">
 
-*Note: Projects are available for review upon request.*
+### Database & Tools
+- 🗄️ MySQL & SQL Server
+- 🐳 Docker - Containerization
+- 🔧 Git - Version control
+- 🐍 Python - Scripting & automation
+- ⚡ C++ - Performance-critical tasks
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassineED7&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineED7&layout=compact&langs_count=6&theme=default)
-
----
-
-## Contact
-
-- **Email:** yassine.eddaadoua37@gmail.com
-- **LinkedIn:** [linkedin.com/in/yassine-eddaadoua](https://linkedin.com/in/yassine-eddaadoua)
-- **Portfolio:** [www.test.com](https://www.test.com)
+</td>
+</tr>
+</table>
 
 ---
 
-*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
+## 💼 Selected Work
+
+```
+📚 Digital Library Platform
+   └─ Online book platform with delivery management
+   └─ PHP • JavaScript • MySQL
+
+🎓 Student Group Management
+   └─ Educational platform with admin dashboard
+   └─ Laravel • MySQL • RESTful API
+
+🏢 Coworking Space Manager
+   └─ Booking & subscription system
+   └─ C# • ASP.NET MVC • SQL Server
+
+✅ Task Flow
+   └─ Minimalist task tracking tool
+   └─ Vanilla JavaScript • Modern CSS
+```
+
+> 💡 **Interested in seeing more?** These projects showcase different aspects of my development approach. Feel free to reach out for detailed walkthroughs.
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassineED7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineED7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yassineED7&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- **Design Patterns** - Writing more maintainable, scalable code
+- **DevOps Practices** - CI/CD, infrastructure as code
+- **System Design** - Architecting distributed systems
+- **Cloud Technologies** - Modern deployment strategies
+
+---
+
+## 📫 Let's Connect
+
+Whether you want to discuss a project, explore collaboration opportunities, or just talk about tech:
+
+**📧 Email:** [yassine.eddaadoua37@gmail.com](mailto:yassine.eddaadoua37@gmail.com)  
+**💼 LinkedIn:** [yassine-eddaadoua](https://linkedin.com/in/yassine-eddaadoua)  
+**🌐 Portfolio:** [www.test.com](https://www.test.com)  
+**👨‍💻 GitHub:** [@yassineED7](https://github.com/yassineED7)
+
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+*"First, solve the problem. Then, write the code."*  
+— John Johnson
+
+**Thanks for stopping by!** ⭐
+
+</div>
