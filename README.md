@@ -1,85 +1,70 @@
-# 👋 Hi, I'm Yassine ED-DAADOUA
+# Yassine ED-DAADOUA
 
-Full Stack Developer | Problem Solver | Code Enthusiast  
-Based in Marrakech, Morocco
+**Full Stack Developer** | Marrakech, Morocco  
+Computer Engineering Student at ESMA
 
 ---
 
 ## About Me
 
-```javascript
-const yassine = {
-    name: "Yassine ED-DAADOUA",
-    education: "Computer Engineering ESMA",
-    status: "Building the future, one line at a time",
-    passion: ["Full Stack Development", "Problem Solving"],
-    currentlyLearning: ["Advanced React Patterns", "DevOps"],
-    funFact: "I debug with console.log() 😄"
-};
-````
+I'm a passionate full stack developer with a focus on building efficient, scalable web applications. Currently expanding my expertise in advanced React patterns and DevOps practices.
+
+- 🔭 Working on various full stack projects using modern technologies
+- 🌱 Learning Advanced React Patterns and DevOps
+- 💼 Open to collaboration and interesting opportunities
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Languages & Frameworks
+**Languages:** PHP, JavaScript, Java, Python, C#, C++
 
-PHP | JavaScript | Java | Python | C# | C++
+**Frontend:** React, HTML5, CSS3, WordPress
 
-### Frontend
+**Backend:** Laravel, ASP.NET, .NET
 
-React | HTML5 | CSS3 | WordPress
+**Databases:** MySQL, Microsoft SQL Server
 
-### Backend
-
-Laravel | .NET | MySQL | SQL Server
-
-### Tools
-
-Docker | Git | VS Code | Visual Studio
+**Tools:** Docker, Git, VS Code, Visual Studio
 
 ---
 
 ## Featured Projects
 
-| Project                         | Description                                              | Tech Stack                  |
-| ------------------------------- | -------------------------------------------------------- | --------------------------- |
-| **Student Group Management**    | Platform to manage student groups and activities         | PHP, Laravel, MySQL         |
-| **Coworking Management System** | Booking and subscription management for coworking spaces | C#, ASP.NET MVC, SQL Server |
-| **Digital Library Platform**    | Online book platform with reading and delivery features  | PHP, JavaScript, MySQL      |
-| **Task Management Tool**        | Simple task tracking web application                     | HTML5, CSS3, JavaScript     |
+### Student Group Management System
+Educational platform for managing student groups with admin panel and activity tracking.  
+**Tech Stack:** PHP, Laravel, MySQL
 
-> All projects are private but available for review upon request.
+### Coworking Management System
+Complete solution for coworking spaces with booking and subscription management.  
+**Tech Stack:** C#, ASP.NET MVC, SQL Server
+
+### Digital Library Platform
+Online book platform with reading services and delivery management.  
+**Tech Stack:** PHP, JavaScript, MySQL
+
+### Task Management Tool
+Simple yet powerful task tracking web application.  
+**Tech Stack:** HTML5, CSS3, JavaScript
+
+*Note: Projects are available for review upon request.*
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassineED7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineED7&layout=compact&theme=tokyonight" height="150"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassineED7&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineED7&layout=compact&langs_count=6&theme=default)
 
 ---
 
-## Connect with Me
+## Contact
 
-[Email](mailto:yassine.eddaadoua37@gmail.com) | [Portfolio](https://www.test.com) | [LinkedIn](https://linkedin.com/in/yassine-eddaadoua) | [GitHub](https://github.com/yassineED7)
+- **Email:** yassine.eddaadoua37@gmail.com
+- **LinkedIn:** [linkedin.com/in/yassine-eddaadoua](https://linkedin.com/in/yassine-eddaadoua)
+- **Portfolio:** [www.test.com](https://www.test.com)
 
 ---
 
-> "Clean code always looks like it was written by someone who cares."
-> — Robert C. Martin
-
-```
-
-✅ **Features of this version:**  
-- Minimal, clean, and professional style.  
-- Clear sections: About Me, Tech Stack, Projects, GitHub Stats, Contact.  
-- Markdown compatible with GitHub README.  
-- Keeps personality but removes excessive animations or GIFs.  
-
-If you want, I can also make a **modern professional version with skill badges** to make it look more **visual and appealing** while keeping it professional.  
-
-Do you want me to do that next?
-```
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
