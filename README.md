@@ -1,25 +1,39 @@
 # Hi there, I'm Yassine ED-DAADOUA 👋
 
-🎓 **Computer Engineering Student** | 💻 **Full-Stack & DevOps Enthusiast**
+🎓 **Master's Student in Computer Science** | 💻 **Full-Stack & DevOps Enthusiast**
 
-Passionate about Linux system administration, web development, containerization, and building clean, efficient software solutions. Currently focusing on mastering DevOps workflows and cloud infrastructure.
+Passionate about Linux, web development, containerization, automation, and building clean, reliable software solutions. Currently focused on strengthening my DevOps skills, CI/CD workflows, and cloud infrastructure.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-- **OS & Terminal:** Fedora Linux, Bash, Tmux, Kitty
-- **Languages:** JavaScript, Python, Bash, HTML/CSS
+- **OS & Environment:** Fedora Linux, Ubuntu Server, Bash, Tmux, Kitty
+- **Languages:** JavaScript, Python, Bash, Java, HTML/CSS
 - **Frontend & Mobile:** React, React Native, Tailwind CSS
-- **DevOps & Backend:** Docker, Nginx, Linux SysAdmin, Git/GitHub, GitHub Actions
+- **Backend:** Laravel, Flask, REST APIs
+- **DevOps:** Docker, Nginx, Git, GitHub, GitHub Actions, Linux
+- **Databases:** MySQL, PostgreSQL, SQLite
 
 ---
 
 ### 🚀 Highlights & Projects
 
-- 🐧 **Linux First:** Daily driver on Fedora, passionate about shell scripting and automation.
-- 🐳 **Containerization & CI/CD:** Building and deploying applications using Docker, Nginx, and GitHub Actions.
-- 📊 **Monitoring & Dashboards:** Designed system monitoring tools and web dashboards.
+- 🐧 **Linux & Automation:** Daily Linux user focused on shell scripting, system administration, and automation.
+- 🐳 **Containerization & CI/CD:** Building and deploying applications with Docker, Nginx, and GitHub Actions.
+- ⚙️ **DevOps Projects:** Developing practical projects to improve my understanding of deployment, automation, and infrastructure.
+- 💻 **Full-Stack Development:** Building web applications using React, Laravel, Flask, and REST APIs.
+
+---
+
+### 🎯 Currently Learning
+
+- Linux System Administration
+- Docker & Containerization
+- CI/CD with GitHub Actions
+- Networking Fundamentals
+- Cloud Infrastructure
+- Infrastructure Automation
 
 ---
 
@@ -27,3 +41,4 @@ Passionate about Linux system administration, web development, containerization,
 
 - **LinkedIn:** [Yassine ED-DAADOUA](https://www.linkedin.com/in/yassine-ed-daadoua-173204337/)
 - **Email:** [yassine.eddaadoua37@gmail.com](mailto:yassine.eddaadoua37@gmail.com)
+- **GitHub:** [@yassineED7](https://github.com/yassineED7)
