@@ -2,7 +2,7 @@
 
 🎓 **Computer Engineering Student** | 💻 **Full-Stack & DevOps Enthusiast**
 
-Passionate about Linux system administration, web development, containerization, and building clean, efficient software solution. Currently focusing on mastering DevOps workflows and cloud infrastructure.
+Passionate about Linux system administration, web development, containerization, and building clean, efficient software solutions. Currently focusing on mastering DevOps workflows and cloud infrastructure.
 
 ---
 
@@ -25,5 +25,5 @@ Passionate about Linux system administration, web development, containerization,
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [yassine-ed-daadoua](https://www.linkedin.com/in/yassine-ed-daadoua) <!-- بدلها بـ Link ديالك -->
-- **Email:** `eddaadoua.yassine@gmail.com` <!-- بدلها بـ Email ديالك -->
+- **LinkedIn:** [Yassine ED-DAADOUA](https://www.linkedin.com/in/yassine-ed-daadoua-173204337/)
+- **Email:** [yassine.eddaadoua37@gmail.com](mailto:yassine.eddaadoua37@gmail.com)
