@@ -8,7 +8,7 @@ Passionate about Linux system administration, web development, containerization,
 
 ### 🛠️ Tech Stack & Tools
 
-- **OS & Terminal:** Fedora Linux, Zsh, Tmux, Kitty
+- **OS & Terminal:** Fedora Linux, Bash, Tmux, Kitty
 - **Languages:** JavaScript, Python, Bash, HTML/CSS
 - **Frontend & Mobile:** React, React Native, Tailwind CSS
 - **DevOps & Backend:** Docker, Nginx, Linux SysAdmin, Git/GitHub, GitHub Actions
